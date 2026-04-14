@@ -1,4 +1,3 @@
-
 function generateBill() {
     let price = document.getElementById("price").value;
     let quantity = document.getElementById("quantity").value;
